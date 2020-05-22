@@ -1,0 +1,7 @@
+{
+  "name": "iotCorona",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
